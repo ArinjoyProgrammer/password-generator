@@ -1,0 +1,1 @@
+message = input("PASSWORD GENERATOR\nThis is a Python Pasword Generator app which will give you a random password which will be required on your time!\n\nHit ENTER to continue\n\n")
